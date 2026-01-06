@@ -1,31 +1,31 @@
-# 代码运行
+# Code Execution
 
-## 图2(a)、2(b)、2(c)、2(d)和2(e)
+## Figures 2(a), 2(b), 2(c), 2(d) and 2(e)
 
-- 可通过运行CAEvsP_compare.py文件获得文件cae_vs_p.mat
-- 运行CAE_vs_P.m分别获得图2(a)、2(b)、2(c)、2(d)和2(e)
+- Run the file `CAEvsP_compare.py` to generate the file `cae_vs_p.mat`.
+- Run `CAE_vs_P.m` to obtain Figures 2(a), 2(b), 2(c), 2(d) and 2(e) respectively.
 
-## 图3(a)、3(b)和3(c)
+## Figures 3(a), 3(b) and 3(c)
 
-- 可通过运行CAEvsFmax.py文件获得文件cae_vs_p.mat
-- 运行CAE_vs_Fmax.m分别获得图3(a)、3(b)和3(c)
+- Run the file `CAEvsFmax.py` to generate the file `cae_vs_p.mat`.
+- Run `CAE_vs_Fmax.m` to obtain Figures 3(a), 3(b) and 3(c) respectively.
 
-## 图4(a)、4(b)和4(c)
+## Figures 4(a), 4(b) and 4(c)
 
-- 可通过运行CAEvsPboth.py文件获得文件CAE_vs_pboth.mat
-- 运行CAE_vs_pboth.m分别获得图4(a)、4(b)和4(c)
+- Run the file `CAEvsPboth.py` to generate the file `CAE_vs_pboth.mat`.
+- Run `CAE_vs_pboth.m` to obtain Figures 4(a), 4(b) and 4(c) respectively.
 
-## 表II(a)和II(b)
+## Tables II(a) and II(b)
 
-- 可通过运行CAEvsP_compare.py文件获得文件cae_vs_p.mat
-- 如需获得图，可运行CAE_vs_P.m
+- Run the file `REvsP.py` to generate the file `REvsP.mat`.
+- Run `REvsP.m` if figure visualization is required.
 
-## 表III
+## Table III
 
-- 可通过运行CAEvsFmax.py文件获得文件cae_vs_p.mat
-- 如需获得图，可运行REvsFmax.m
+- Run the file `REvsFmax.py` to generate the file `re_vs_fmax.mat`.
+- Run `REvsFmax.m` if figure visualization is required.
 
-## 表IV
+## Table IV
 
-- 可通过运行CAEvsPboth.py文件获得文件CAE_vs_pboth.mat
-- 如需获得图，可运行CAE_vs_pboth.m
+- Run the file `REvsPboth.py` to generate the file `re_vs_p_both.mat`.
+- Run `RE_vs_pboth.m` if figure visualization is required.
